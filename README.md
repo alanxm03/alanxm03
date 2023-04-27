@@ -1,4 +1,4 @@
-# 💫 About Me:
+ <h1 align="center">Hi 👋, I'm Alan Xavier<br></h1><br>
 🌱 I’m currently learning AngularJs<br><br>👨‍💻Some of my projects are available at alanxm03.github.io<br><br>💬 Ask me about Java, Web_Dev<br><br>📫 How to reach me alanarun033@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1OGEbecrX0pJLOOhba1RadtaMojs5gyXO/view?usp=share_link<br><br>⚡ Fun fact The # symbol isn’t officially called hashtag or pound
 
 
